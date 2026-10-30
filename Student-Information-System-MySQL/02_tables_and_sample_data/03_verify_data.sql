@@ -1,0 +1,11 @@
+USE StudentInformationSystem;
+SELECT * FROM Department;
+SELECT * FROM Student;
+SELECT * FROM Faculty;
+SELECT * FROM Course;
+SELECT * FROM Enrollment;
+SELECT * FROM Attendance;
+SELECT * FROM Examination;
+SELECT * FROM Marks;
+SELECT * FROM Fee;
+SELECT * FROM UserAccount;
