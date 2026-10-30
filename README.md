@@ -1,6 +1,6 @@
 # 🎓 Student Information System (MySQL)
 
-A DBMS case study by **BVRIT Hyderabad College of Engineering for Women, Dept. of CSE (AI&ML)**, under the guidance of **Miss V. Asha (Asst. Professor)**.
+A DBMS case study by **BVRIT Hyderabad College of Engineering for Women, Dept. of CSE (AI&ML)**, under the guidance of **Mrs V. Asha (Asst. Professor)**.
 
 A MySQL relational database that manages departments, students, faculty, courses, enrollments, attendance, examinations, marks, fees and user accounts. It includes SQL demonstrations of DDL, DML, joins, subqueries, stored procedures, triggers, views, DCL and TCL.
 
